@@ -14,6 +14,10 @@ This repository contains a dummy implementation for personalized anomaly detecti
 - `utils/`: Contains utility functions for training models, applying algorithms, and generating dummy data.
 - `dummy_experiment.py`: Main script to run the dummy experiment.
 
+## Citation
+
+If you use this project in your research, please cite the original paper.
+
 ## Requirements
 
 - Python 3.8 or higher
